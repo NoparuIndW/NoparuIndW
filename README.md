@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning HTML & CSS
 - 💞️ I’m looking to collaborate on Some   Web Project
-- 📫 You can reach me from my ig @naufal_indw or my email @naufalindiarto17@gmail.com
+- 📫 You can reach me from my ig @naufal_indw or my email @naufalindiarto17@gmail.com and mnaufalr078@kurikulumsmkn1tengaran.sch.id
 - I'm  Student and need Work
 
 <!---
